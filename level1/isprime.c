@@ -19,11 +19,11 @@ int main()
 	}	
 	if(isprime==1)
 	{ 
-	    printf("是素数\n");
+	    printf("鏄礌鏁癨n");
 	}
 	else
 	{
-		printf("不是素数\n");
+		printf("涓嶆槸绱犳暟\n");
 	}
 	return 0;
 }
